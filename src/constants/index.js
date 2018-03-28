@@ -1,0 +1,10 @@
+const constants = {
+    SHOW_MODAL: "SHOW_MODAL",
+    HIDE_MODAL: "HIDE_MODAL",
+    FETCH_FORM_START: 'FETCH_FORM_START',
+    FETCH_FORM_SUCCESS: 'FETCH_FORM_SUCCESS',
+    FETCH_FORM_FAIL: 'FETCH_FORM_FAIL'
+
+}
+
+export default constants;
